@@ -71,7 +71,7 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   page_path : /pages.html
-  resume_path : /resume.md
+  resume_path : /resume.html
 
 
   # Settings for comments helper
