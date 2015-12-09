@@ -1,6 +1,6 @@
 ---
 layout: page
-title: anoopvalluthadam!
+title: anoopvalluthadam
 ---
 {% include JB/setup %}
 
