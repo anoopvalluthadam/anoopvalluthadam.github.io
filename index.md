@@ -2,7 +2,7 @@
 layout: page
 title: anoopvalluthadam
 ---
-{% if site.twitter_username %}
+{% if site.twitter %}
   <li>
     <a href="https://twitter.com/{{ site.twitter }}">
       <i class="fa fa-twitter"></i> Twitter
