@@ -11,10 +11,10 @@ highlighter: pygments
 title : anoopvalluthadam
 author :
   name : Anoop Valluthadam
-  email : anoopvalluthadam@gmail.com
-  github : anoopvalluthadam
-  twitter : anoopvalluthada
-  facebook : Anoop.Valluthadam
+email : anoopvalluthadam@gmail.com
+github : anoopvalluthadam
+twitter : anoopvalluthada
+facebook : Anoop.Valluthadam
   
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
