@@ -4,10 +4,10 @@ title: anoopvalluthadam
 ---
 {% include JB/setup %}
 
-programmer, hardcore; <br />
+Programmer, hardcore; <br />
 Heavy metal music listener, while coding; <br />
-traveller, by heart; <br />
-cricketer, by birth; <br />
+Traveller, by heart; <br />
+Cricketer, by birth; <br />
 Nikonian, for ever. <br />
     
 ## Posts
