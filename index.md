@@ -4,11 +4,11 @@ title: anoopvalluthadam
 ---
 {% include JB/setup %}
 
-programmer, hardcore;
-Heavy metal music listener, while coding;
-traveller, by heart;
-cricketer, by birth;
-Nikonian, for ever.
+programmer, hardcore; <br />
+Heavy metal music listener, while coding; <br />
+traveller, by heart; <br />
+cricketer, by birth; <br />
+Nikonian, for ever. <br />
     
 ## Posts
 
