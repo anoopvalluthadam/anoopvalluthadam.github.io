@@ -70,6 +70,8 @@ JB :
   categories_path : /categories.html
   tags_path : /tags.html
   atom_path : /atom.xml
+  page_path : /pages.html
+  resume_path : /resume.md
 
 
   # Settings for comments helper
