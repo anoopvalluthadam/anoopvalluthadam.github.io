@@ -71,6 +71,7 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
+  resume_path : Resume.pdf
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
