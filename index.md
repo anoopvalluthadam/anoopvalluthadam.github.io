@@ -4,7 +4,11 @@ title: anoopvalluthadam
 ---
 {% include JB/setup %}
 
-
+programmer, hardcore;
+Heavy metal music listener, while coding;
+traveller, by heart;
+cricketer, by birth;
+Nikonian, for ever.
     
 ## Posts
 
