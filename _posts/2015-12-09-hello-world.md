@@ -6,3 +6,5 @@ category:
 tags: [hello, world, test]
 ---
 {% include JB/setup %}
+
+Thtis is just a test page :)
