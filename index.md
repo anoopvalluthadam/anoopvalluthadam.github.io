@@ -2,13 +2,7 @@
 layout: page
 title: anoopvalluthadam
 ---
-{% if site.twitter %}
-  <li>
-    <a href="https://twitter.com/{{ site.twitter }}">
-      <i class="fa fa-twitter"></i> Twitter
-    </a>
-  </li>
-{% endif %}
+
 {% include JB/setup %}
 
 Programmer, hardcore; <br />
