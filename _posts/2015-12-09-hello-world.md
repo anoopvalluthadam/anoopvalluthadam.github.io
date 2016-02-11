@@ -11,4 +11,6 @@ Thtis is just a test page :)
 
 ~~~~python
 import os
+def test:
+  print 'Hello'
 ~~~~
