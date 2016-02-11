@@ -7,6 +7,6 @@ tags: [hello, world, test]
 ---
 {% include JB/setup %}
 
-~~~~python
+
 print 'Hello world!'
-~~~~
+
