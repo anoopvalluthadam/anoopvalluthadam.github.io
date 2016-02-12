@@ -7,6 +7,5 @@ tags: [hello, world, test]
 ---
 {% include JB/setup %}
 
-
-print 'Hello world!'
+test page!
 
