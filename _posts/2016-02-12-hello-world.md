@@ -6,10 +6,8 @@ category:
 tags: []
 ---
 
-
-```python
+:::python
 s = "Python syntax highlighting"
 print s
-```
 
 {% include JB/setup %}
