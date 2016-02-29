@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 
-```python
+```
 import os
 s = "Python syntax highlighting"
 print s
