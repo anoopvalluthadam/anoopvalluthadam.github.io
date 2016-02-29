@@ -6,9 +6,11 @@ category:
 tags: []
 ---
 
-:::python
-s = "Python syntax highlighting"
-print s
+```python
+  s = "Python syntax highlighting"
+  print s
+```
+
 
 other texts
 
