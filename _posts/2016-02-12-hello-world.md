@@ -7,8 +7,12 @@ tags: []
 ---
 
 ```python
-  s = "Python syntax highlighting"
-  print s
+import os
+s = "Python syntax highlighting"
+print s
+
+def test():
+  print 'Hello World'
 ```
 
 
