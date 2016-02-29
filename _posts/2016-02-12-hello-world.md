@@ -12,6 +12,4 @@ tags: []
 ```
 
 
-other texts
-
 {% include JB/setup %}
