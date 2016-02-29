@@ -10,4 +10,6 @@ tags: []
 s = "Python syntax highlighting"
 print s
 
+other texts
+
 {% include JB/setup %}
